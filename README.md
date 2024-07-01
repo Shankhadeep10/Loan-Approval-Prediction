@@ -22,13 +22,13 @@ The dataset contains information about Loan Applicants. There are 12 independent
 
 In this project sponsored by Foundation For Excellence through Coursera Project Works, you will:
 
-. Understand the applications of Artificial Intelligence and Machine Learning techniques in the banking industry.
-. Import key Python libraries, datasets, and perform Exploratory Data Analysis.
-. Perform data visualization using Seaborn.
-. Standardize the data and split them into train and test datasets.
-. Build a machine learning model using logistic regression.
-. Assess the performance of the model and ensure its generalization using various Key Performance Indicators (KPIs).
+* Understand the applications of Artificial Intelligence and Machine Learning techniques in the banking industry.
+* Import key Python libraries, datasets, and perform Exploratory Data Analysis.
+* Perform data visualization using Seaborn.
+* Standardize the data and split them into train and test datasets.
+* Build a machine learning model using logistic regression.
+* Assess the performance of the model and ensure its generalization using various Key Performance Indicators (KPIs).
 
 # Target: 
 
-. Loan_Status: Loan granted or not (Y, N)
+* Loan_Status: Loan granted or not (Y, N)
